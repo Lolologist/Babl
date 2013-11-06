@@ -1,0 +1,41 @@
+i 1SG-PST-finish the language. you-GEN mother 3SG-PRES-smell like a animal-DIM
+level 1
+level 2
+level 3
+level 4
+level 5
+level 6
+level 7
+level 8
+level 9
+level-DIM 1
+
+collector status
+
+gate north 
+gate east
+gate west
+gate south
+
+content-PL 3PL-PRES-have pressure
+
+NEG-2PL-PRES-block
+
+refinery stage a
+refinery stage b
+refinery stage c
+refinery stage d
+refinery stage e
+refinery stage f
+refinery stage g
+refinery stage h
+refinery stage i
+refinery stage j
+
+toxic
+3SG-PRES-be toxic when 3SG-PST-breach
+
+orb dispatch
+orb recovery
+
+luminite storage
